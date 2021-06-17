@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    box-sizing: border-box;
+    background-color:#f4d03f;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+}
+.contenedor{
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    margin: 30px;
+    display: none;
+}  
+
+.hero-section__texto{
+    font-size: 1.5rem;
+}
+
+.busqueda-poke__imagen {
+    background-color: #f0f592;
+}
+
+.busqueda-poke__habilidadespoke{
+    background-color: #e2e4f7;
+}
+
+    ul{
+        list-style-type: none;
+    }
+
+   li{
+       float: left;
+       margin-right: 10px;
+       padding: 0 4px;
+       font-family: 'Poppins', sans-serif;
+   }
+   #mostraerPoke{
+       text-align: center;
+       margin-top: 50%;
+   }
+
+#chartContainer{
+    height: 300px; 
+    width: 100%
+}
